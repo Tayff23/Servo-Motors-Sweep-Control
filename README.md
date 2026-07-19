@@ -7,11 +7,14 @@ This project demonstrates how to control four servo motors using Arduino. The mo
 - Jumper Wires
 ## Files
 - `4_Servo_Motors_Control.ino` - Arduino source code.
+- `demo.mp4` - Project demonstration video.
 - `Images/circuit.png` - Circuit connection.
 - `Images/simulation.png` - Simulation result.
 ## Circuit
 ![Circuit](Images/circuit.png)
 ## Simulation
 ![Simulation](Images/simulation.png)
+## Demo
+The project demonstration video is available in this repository as **demo.mp4**.
 ## Result
 The four servo motors perform the Sweep motion for about 2 seconds and then stop at 90 degrees as required.
